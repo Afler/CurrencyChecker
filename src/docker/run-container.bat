@@ -1,0 +1,1 @@
+call docker run --name CURRENCY_CHECKER -p 8082:8081 currency-checker:latest
